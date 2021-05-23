@@ -24,7 +24,7 @@
         "1.7.10":"https://mcserver.nstar.xyz/2:/CraftBukkit/craftbukkit-1.7.10-R0.1-20140808.005431-8.jar"
     },
     "Paper":{
-        "1.16.5":"https://mcserver.nstar.xyz/2:/PaperSpigot/paper-1.16.5-638.jar",
+        "1.16.5":"https://dwmcs.nstar.xyz/Paper/paper-1.16.5-715.jar",
         "1.15.2":"https://mcserver.nstar.xyz/2:/PaperSpigot/paper-1.15.2-391.jar",
         "1.14.4":"https://mcserver.nstar.xyz/2:/PaperSpigot/paper-1.14.4-243.jar",
         "1.13.2":"https://mcserver.nstar.xyz/2:/PaperSpigot/paper-1.13.2-655.jar",
@@ -35,7 +35,7 @@
         "1.8.8":"https://mcserver.nstar.xyz/2:/PaperSpigot/paper-1.8.8-443.jar"
     },
     "MojangServer":{
-        "1.17-21w17a":"https://download.mcbbs.net/v1/objects/ec995f939bb41a785f960985e73821c7044fc32e/server.jar",
+        "1.17-21w20a":"https://download.mcbbs.net/v1/objects/d0a9151432af384f5f2ca72e8e43422772158d0e/server.jar",
         "1.16.5":"https://download.mcbbs.net/v1/objects/1b557e7b033b583cd9f66746b7a9ab1ec1673ced/server.jar",
         "1.15.2":"https://download.mcbbs.net/v1/objects/bb2b6b1aefcd70dfd1892149ac3a215f6c636b07/server.jar",
         "1.14.4":"https://download.mcbbs.net/v1/objects/3dc3d84a581f14691199cf6831b71ed1296a9fdf/server.jar",
