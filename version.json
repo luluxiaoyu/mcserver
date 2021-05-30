@@ -51,7 +51,8 @@
     "ModServer":{
         "Loliserver-1.16.5":"https://dwmcs.nstar.xyz/ModServer/1.16/LoliServer-1.16.5-78b1eff-server.jar",
         "Arclight-1.16.5":"https://dwmcs.nstar.xyz/ModServer/1.16/arclight-forge-1.16-1.0.17.jar",
-        "Mohist-1.16.5":"https://dwmcs.nstar.xyz/ModServer/1.16/mohist-1.16.5-539-server.jar",
+        "Mohist-1.16.5":"https://dwmcs.nstar.xyz/ModServer/1.16/mohist-1.16.5-614-server.jar",
+        "Mohist-1.16.5（Paper）":"https://dwmcs.nstar.xyz/ModServer/1.16/paper/mohist-1.16.5-4-server.jar",
         "Arclight-1.15.2":"https://dwmcs.nstar.xyz/ModServer/other/arclight-forge-1.15-1.0.18.jar",
         "Mohist-1.12.2":"https://dwmcs.nstar.xyz/ModServer/1.12/mohist-1.12.2-225-server.jar",
         "Catserver-1.12.2":"https://dwmcs.nstar.xyz/ModServer/1.12/CatServer-4292748-universal.jar",
