@@ -35,7 +35,7 @@
         "1.8.8":"https://mcserver.nstar.xyz/2:/PaperSpigot/paper-1.8.8-443.jar"
     },
     "MojangServer":{
-	    "1.17-Pre1":"https://bmclapi2.bangbang93.com/version/1.17-pre1/server",
+	"1.17-Pre1":"https://bmclapi2.bangbang93.com/version/1.17-pre1/server",
         "1.17-21w20a":"https://download.mcbbs.net/v1/objects/d0a9151432af384f5f2ca72e8e43422772158d0e/server.jar",
         "1.16.5":"https://download.mcbbs.net/v1/objects/1b557e7b033b583cd9f66746b7a9ab1ec1673ced/server.jar",
         "1.15.2":"https://download.mcbbs.net/v1/objects/bb2b6b1aefcd70dfd1892149ac3a215f6c636b07/server.jar",
