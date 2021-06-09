@@ -39,7 +39,7 @@
         "1.8.8":"https://dwmcs.nstar.xyz/Paper/paper-1.8.8-443.jar"
     },
     "MojangServer":{
-        "1.17-rc1":"https://launcher.mojang.com/v1/objects/4de310c8c4f4a8ab4574246c1d63e3de3af1444d/server.jar",
+        "1.17":"https://mc.mirrors.tmysam.top/v1/objects/0a269b5f2c5b93b1712d0f5dc43b6182b9ab254e/server.jar",
         "1.16.5":"https://download.mcbbs.net/v1/objects/1b557e7b033b583cd9f66746b7a9ab1ec1673ced/server.jar",
         "1.15.2":"https://download.mcbbs.net/v1/objects/bb2b6b1aefcd70dfd1892149ac3a215f6c636b07/server.jar",
         "1.14.4":"https://download.mcbbs.net/v1/objects/3dc3d84a581f14691199cf6831b71ed1296a9fdf/server.jar",
