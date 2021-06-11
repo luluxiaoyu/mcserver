@@ -1,5 +1,6 @@
 {
     "Spigot":{
+        "1.7":"https://dwmcs.nstar.xyz/Spigot/spigot-1.17.jar",
         "1.16.5":"https://dwmcs.nstar.xyz/Spigot/spigot-1.16.5.jar",
         "1.15.2":"https://dwmcs.nstar.xyz/Spigot/spigot-1.15.2.jar",
         "1.14.4":"https://dwmcs.nstar.xyz/Spigot/spigot-1.14.4.jar",
@@ -12,6 +13,7 @@
         "1.7.10":"https://dwmcs.nstar.xyz/Spigot/spigot-1.7.10.jar"
     },
     "CraftBukkit":{
+        "1.17":"https://dwmcs.nstar.xyz/CraftBukkit/craftbukkit-1.17.jar",
         "1.16.5":"https://dwmcs.nstar.xyz/CraftBukkit/craftbukkit-1.16.5.jar",
         "1.15.2":"https://dwmcs.nstar.xyz/CraftBukkit/craftbukkit-1.15.2.jar",
         "1.14.4":"https://dwmcs.nstar.xyz/CraftBukkit/craftbukkit-1.14.4-R0.1-SNAPSHOT.jar",
