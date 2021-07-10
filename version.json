@@ -1,5 +1,6 @@
 {
     "Spigot":{
+        "1.17.1":"https://dwmcs.nstar.xyz/Spigot/spigot-1.17.1.jar",
         "1.17":"https://dwmcs.nstar.xyz/Spigot/spigot-1.17.jar",
         "1.16.5":"https://dwmcs.nstar.xyz/Spigot/spigot-1.16.5.jar",
         "1.15.2":"https://dwmcs.nstar.xyz/Spigot/spigot-1.15.2.jar",
@@ -13,6 +14,7 @@
         "1.7.10":"https://dwmcs.nstar.xyz/Spigot/spigot-1.7.10.jar"
     },
     "CraftBukkit":{
+        "1.17.1":"https://dwmcs.nstar.xyz/CraftBukkit/craftbukkit-1.17.1.jar",
         "1.17":"https://dwmcs.nstar.xyz/CraftBukkit/craftbukkit-1.17.jar",
         "1.16.5":"https://dwmcs.nstar.xyz/CraftBukkit/craftbukkit-1.16.5.jar",
         "1.15.2":"https://dwmcs.nstar.xyz/CraftBukkit/craftbukkit-1.15.2.jar",
@@ -26,6 +28,7 @@
         "1.7.10":"https://dwmcs.nstar.xyz/CraftBukkit/craftbukkit-1.7.10-R0.1-20140808.005431-8.jar"
     },
     "Paper":{
+        "1.17.1":"https://dwmcs.nstar.xyz/Paper/paper-1.17.1-97.jar",
         "Yatopia-1.16.5":"https://dwmcs.nstar.xyz/Paper/branch/yatopia-1.16.5-paperclip-b118.jar",
         "Purpurclip-1.16.5":"https://dwmcs.nstar.xyz/Paper/branch/purpurclip-1.16.5-1149.jar",
         "1.16.5":"https://dwmcs.nstar.xyz/Paper/paper-1.16.5-750.jar",
@@ -41,6 +44,7 @@
         "1.8.8":"https://dwmcs.nstar.xyz/Paper/paper-1.8.8-443.jar"
     },
     "MojangServer":{
+        "1.17.1":"https://mc.mirrors.tmysam.top/v1/objects/a16d67e5807f57fc4e550299cf20226194497dc2/server.jar",
         "1.17":"https://mc.mirrors.tmysam.top/v1/objects/0a269b5f2c5b93b1712d0f5dc43b6182b9ab254e/server.jar",
         "1.16.5":"https://download.mcbbs.net/v1/objects/1b557e7b033b583cd9f66746b7a9ab1ec1673ced/server.jar",
         "1.15.2":"https://download.mcbbs.net/v1/objects/bb2b6b1aefcd70dfd1892149ac3a215f6c636b07/server.jar",
