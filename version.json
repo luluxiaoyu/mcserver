@@ -44,6 +44,7 @@
         "1.8.8":"https://dwmcs.nstarmc.cn/Paper/paper-1.8.8-443.jar"
     },
     "MojangServer":{
+        "1.18 SN-ES3":"https://mc.mirrors.tmysam.top/v1/objects/cbe106c19f5072222ce54039aa665a8aaf97097d/server.jar",
         "1.18 SN-ES2":"https://mc.mirrors.tmysam.top/v1/objects/9fa3fd2939f9785bafc6a0a3507c3c967fbeafed/server.jar",
         "1.17.1":"https://mc.mirrors.tmysam.top/v1/objects/a16d67e5807f57fc4e550299cf20226194497dc2/server.jar",
         "1.17":"https://mc.mirrors.tmysam.top/v1/objects/0a269b5f2c5b93b1712d0f5dc43b6182b9ab254e/server.jar",
