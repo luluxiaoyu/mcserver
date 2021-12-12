@@ -1,7 +1,7 @@
 {
     "Spigot":{
+        "1.18.1":"https://dwmcs.nstarmc.cn/Spigot/spigot-1.18.1.jar",
         "1.17.1":"https://dwmcs.nstarmc.cn/Spigot/spigot-1.17.1.jar",
-        "1.17":"https://dwmcs.nstarmc.cn/Spigot/spigot-1.17.jar",
         "1.16.5":"https://dwmcs.nstarmc.cn/Spigot/spigot-1.16.5.jar",
         "1.15.2":"https://dwmcs.nstarmc.cn/Spigot/spigot-1.15.2.jar",
         "1.14.4":"https://dwmcs.nstarmc.cn/Spigot/spigot-1.14.4.jar",
@@ -28,10 +28,12 @@
         "1.7.10":"https://dwmcs.nstarmc.cn/CraftBukkit/craftbukkit-1.7.10-R0.1-20140808.005431-8.jar"
     },
     "Paper":{
+        "1.18.1":"https://dwmcs.nstarmc.cn/Paper/paper-1.18.1-69.jar",
+        "1.17.1":"https://dwmcs.nstarmc.cn/Paper/paper-1.17.1-399.jar",
         "Purpurclip-1.17.1":"https://dwmcs.nstarmc.cn/Paper/branch/purpur-1.17.1-1327.jar",
         "Yatopia-1.16.5":"https://dwmcs.nstarmc.cn/Paper/branch/yatopia-1.16.5-paperclip-b118.jar",
         "Purpurclip-1.16.5":"https://dwmcs.nstarmc.cn/Paper/branch/purpurclip-1.16.5-1149.jar",
-        "1.16.5":"https://dwmcs.nstarmc.cn/Paper/paper-1.16.5-750.jar",
+        "1.16.5":"https://dwmcs.nstarmc.cn/Paper/paper-1.16.5-792.jar",
         "Purpurclip-1.15.2":"https://dwmcs.nstarmc.cn/Paper/branch/purpurclip-1.15.2-606.jar",
         "1.15.2":"https://dwmcs.nstarmc.cn/Paper/paper-1.15.2-391.jar",
         "Purpurclip-1.14.4":"https://dwmcs.nstarmc.cn/Paper/branch/purpurclip-1.14.4-337.jar",
@@ -44,8 +46,7 @@
         "1.8.8":"https://dwmcs.nstarmc.cn/Paper/paper-1.8.8-443.jar"
     },
     "MojangServer":{
-        "1.18 SN-ES3":"https://mc.mirrors.tmysam.top/v1/objects/cbe106c19f5072222ce54039aa665a8aaf97097d/server.jar",
-        "1.18 SN-ES2":"https://mc.mirrors.tmysam.top/v1/objects/9fa3fd2939f9785bafc6a0a3507c3c967fbeafed/server.jar",
+        "1.18.1":"https://mc.mirrors.tmysam.top/v1/objects/125e5adf40c659fd3bce3e66e67a16bb49ecc1b9/server.jar",
         "1.17.1":"https://mc.mirrors.tmysam.top/v1/objects/a16d67e5807f57fc4e550299cf20226194497dc2/server.jar",
         "1.17":"https://mc.mirrors.tmysam.top/v1/objects/0a269b5f2c5b93b1712d0f5dc43b6182b9ab254e/server.jar",
         "1.16.5":"https://download.mcbbs.net/v1/objects/1b557e7b033b583cd9f66746b7a9ab1ec1673ced/server.jar",
@@ -60,13 +61,12 @@
         "1.7.10":"https://download.mcbbs.net/v1/objects/952438ac4e01b4d115c5fc38f891710c4941df29/server.jar"
     },
     "ModServer":{
-        "Loliserver-1.16.5":"https://dwmcs.nstarmc.cn/ModServer/1.16/LoliServer-1.16.5-8c9fb9d-server.jar",
+        "Loliserver-1.16.5":"https://dwmcs.nstarmc.cn/ModServer/1.16/LoliServer-1.16.5-185-server.jar",
         "Arclight-1.16.5":"https://dwmcs.nstarmc.cn/ModServer/1.16/arclight-forge-1.16-1.0.18.jar",
-        "Mohist-1.16.5":"https://dwmcs.nstarmc.cn/ModServer/1.16/mohist-1.16.5-619-server.jar",
-        "Mohist-1.16.5（Paper）":"https://dwmcs.nstarmc.cn/ModServer/1.16/paper/mohist-1.16.5-4-server.jar",
+        "Mohist-1.16.5":"https://dwmcs.nstarmc.cn/ModServer/1.16/mohist-1.16.5-883-server.jar",
         "Arclight-1.15.2":"https://dwmcs.nstarmc.cn/ModServer/other/arclight-forge-1.15-1.0.18.jar",
-        "Mohist-1.12.2":"https://dwmcs.nstarmc.cn/ModServer/1.12/mohist-1.12.2-226-server.jar",
-        "Catserver-1.12.2":"https://dwmcs.nstarmc.cn/ModServer/1.12/CatServer-92b87c7-universal.jar",
+        "Mohist-1.12.2":"https://dwmcs.nstarmc.cn/ModServer/1.12/mohist-1.12.2-280-server.jar",
+        "Catserver-1.12.2":"https://dwmcs.nstarmc.cn/ModServer/1.12/CatServer-5d66f2e-universal",
         "Mohist-1.7.10":"https://dwmcs.nstarmc.cn/ModServer/other/Mohist-1.7.10-28-server.jar"
     }
 }
