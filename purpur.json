@@ -1,23 +1,23 @@
 {
   "versions": {
-    "1.14.1": "/Purpur/purpur-1.14.1-63.jar",
-    "1.14.2": "/Purpur/purpur-1.14.2-126.jar",
-    "1.14.3": "/Purpur/purpur-1.14.3-202.jar",
-    "1.14.4": "/Purpur/purpur-1.14.4-337.jar",
-    "1.15": "/Purpur/purpur-1.15-346.jar",
-    "1.15.1": "/Purpur/purpur-1.15.1-397.jar",
-    "1.15.2": "/Purpur/purpur-1.15.2-606.jar",
-    "1.16.1": "/Purpur/purpur-1.16.1-710.jar",
-    "1.16.2": "/Purpur/purpur-1.16.2-750.jar",
-    "1.16.3": "/Purpur/purpur-1.16.3-808.jar",
-    "1.16.4": "/Purpur/purpur-1.16.4-956.jar",
-    "1.16.5": "/Purpur/purpur-1.16.5-1171.jar",
-    "1.17": "/Purpur/purpur-1.17-1255.jar",
-    "1.17.1": "/Purpur/purpur-1.17.1-1428.jar",
-    "1.18": "/Purpur/purpur-1.18-1433.jar",
-    "1.18.1": "/Purpur/purpur-1.18.1-1477.jar"
+    "1.14.1": "/Purpur/paurpur-1.14.1-63.jar",
+    "1.14.2": "/Purpur/paurpur-1.14.2-126.jar",
+    "1.14.3": "/Purpur/paurpur-1.14.3-202.jar",
+    "1.14.4": "/Purpur/paurpur-1.14.4-337.jar",
+    "1.15": "/Purpur/paurpur-1.15-346.jar",
+    "1.15.1": "/Purpur/paurpur-1.15.1-397.jar",
+    "1.15.2": "/Purpur/paurpur-1.15.2-606.jar",
+    "1.16.1": "/Purpur/paurpur-1.16.1-710.jar",
+    "1.16.2": "/Purpur/paurpur-1.16.2-750.jar",
+    "1.16.3": "/Purpur/paurpur-1.16.3-808.jar",
+    "1.16.4": "/Purpur/paurpur-1.16.4-956.jar",
+    "1.16.5": "/Purpur/paurpur-1.16.5-1171.jar",
+    "1.17": "/Purpur/paurpur-1.17-1255.jar",
+    "1.17.1": "/Purpur/paurpur-1.17.1-1428.jar",
+    "1.18": "/Purpur/paurpur-1.18-1433.jar",
+    "1.18.1": "/Purpur/paurpur-1.18.1-1477.jar"
   },
   "domain": "https://dwmcs.nstarmc.cn",
   "autoupdateversion": "1.0.0.0",
-  "updatetime": "2022-1-2 15:1:10"
+  "updatetime": "2022-1-2 17:14:40"
 }
