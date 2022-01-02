@@ -1,32 +1,4 @@
 {
-    "Spigot":{
-        "1.18.1":"https://dwmcs.nstarmc.cn/Spigot/spigot-1.18.1.jar",
-        "1.17.1":"https://dwmcs.nstarmc.cn/Spigot/spigot-1.17.1.jar",
-        "1.16.5":"https://dwmcs.nstarmc.cn/Spigot/spigot-1.16.5.jar",
-        "1.15.2":"https://dwmcs.nstarmc.cn/Spigot/spigot-1.15.2.jar",
-        "1.14.4":"https://dwmcs.nstarmc.cn/Spigot/spigot-1.14.4.jar",
-        "1.13.2":"https://dwmcs.nstarmc.cn/Spigot/spigot-1.13.2.jar",
-        "1.12.2":"https://dwmcs.nstarmc.cn/Spigot/spigot-1.12.2.jar",
-        "1.11.2":"https://dwmcs.nstarmc.cn/Spigot/spigot-1.11.2.jar",
-        "1.10.2":"https://dwmcs.nstarmc.cn/Spigot/spigot-1.10.2.jar",
-        "1.9.4":"https://dwmcs.nstarmc.cn/Spigot/spigot-1.9.4.jar",
-        "1.8.8":"https://dwmcs.nstarmc.cn/Spigot/spigot-1.8.8.jar",
-        "1.7.10":"https://dwmcs.nstarmc.cn/Spigot/spigot-1.7.10.jar"
-    },
-    "CraftBukkit":{
-        "1.17.1":"https://dwmcs.nstarmc.cn/CraftBukkit/craftbukkit-1.17.1.jar",
-        "1.17":"https://dwmcs.nstarmc.cn/CraftBukkit/craftbukkit-1.17.jar",
-        "1.16.5":"https://dwmcs.nstarmc.cn/CraftBukkit/craftbukkit-1.16.5.jar",
-        "1.15.2":"https://dwmcs.nstarmc.cn/CraftBukkit/craftbukkit-1.15.2.jar",
-        "1.14.4":"https://dwmcs.nstarmc.cn/CraftBukkit/craftbukkit-1.14.4-R0.1-SNAPSHOT.jar",
-        "1.13.2":"https://dwmcs.nstarmc.cn/CraftBukkit/craftbukkit-1.13.2.jar",
-        "1.12.2":"https://dwmcs.nstarmc.cn/CraftBukkit/craftbukkit-1.12.2.jar",
-        "1.11.2":"https://dwmcs.nstarmc.cn/CraftBukkit/craftbukkit-1.11.2.jar",
-        "1.10.2":"https://dwmcs.nstarmc.cn/CraftBukkit/craftbukkit-1.10.2-R0.1-SNAPSHOT-latest.jar",
-        "1.9.4":"https://dwmcs.nstarmc.cn/CraftBukkit/craftbukkit-1.9.4-R0.1-SNAPSHOT-latest.jar",
-        "1.8.8":"https://dwmcs.nstarmc.cn/CraftBukkit/craftbukkit-1.8.8-R0.1-SNAPSHOT-latest.jar",
-        "1.7.10":"https://dwmcs.nstarmc.cn/CraftBukkit/craftbukkit-1.7.10-R0.1-20140808.005431-8.jar"
-    },
     "Paper":{
         "1.18.1":"https://dwmcs.nstarmc.cn/Paper/paper-1.18.1-69.jar",
         "1.17.1":"https://dwmcs.nstarmc.cn/Paper/paper-1.17.1-399.jar",
