@@ -15,9 +15,10 @@
     "1.17": "/Purpur/purpur-1.17-1255.jar",
     "1.17.1": "/Purpur/purpur-1.17.1-1428.jar",
     "1.18": "/Purpur/purpur-1.18-1433.jar",
-    "1.18.1": "/Purpur/purpur-1.18.1-1566.jar"
+    "1.18.1": "/Purpur/purpur-1.18.1-1566.jar",
+    "1.18.2": "/Purpur/purpur-1.18.2-1599.jar"
   },
   "domain": "https://dwmcs.nstarmc.cn",
   "autoupdateversion": "1.0.0.0",
-  "updatetime": "2022-3-2 18:44:26"
+  "updatetime": "2022-3-26 16:21:26"
 }
