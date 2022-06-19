@@ -28,9 +28,10 @@
     "1.17.1": "/Paper/paper-1.17.1-411.jar",
     "1.18": "/Paper/paper-1.18-66.jar",
     "1.18.1": "/Paper/paper-1.18.1-216.jar",
-    "1.18.2": "/Paper/paper-1.18.2-379.jar"
+    "1.18.2": "/Paper/paper-1.18.2-386.jar",
+    "1.19": "/Paper/paper-1.19-29.jar"
   },
   "domain": "https://dwmcs.nstarmc.cn",
   "autoupdateversion": "1.0.0.0",
-  "updatetime": "2022-6-7 23:27:44"
+  "updatetime": "2022-6-19 13:47:55"
 }
