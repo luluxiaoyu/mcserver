@@ -1,5 +1,6 @@
 {
     "MojangServer":{
+        "1.19":"https://launcher.mojang.com/v1/objects/e00c4052dac1d59a1188b2aa9d5a87113aaf1122/server.jar",
         "1.18.1":"https://mc.mirrors.tmysam.top/v1/objects/125e5adf40c659fd3bce3e66e67a16bb49ecc1b9/server.jar",
         "1.17.1":"https://mc.mirrors.tmysam.top/v1/objects/a16d67e5807f57fc4e550299cf20226194497dc2/server.jar",
         "1.17":"https://mc.mirrors.tmysam.top/v1/objects/0a269b5f2c5b93b1712d0f5dc43b6182b9ab254e/server.jar",
